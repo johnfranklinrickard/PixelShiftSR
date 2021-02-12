@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Jetbrains ignore
+.idea
+
+# stop upload of unwanted data and epochs
+train-data
+val-data
+*.pt
